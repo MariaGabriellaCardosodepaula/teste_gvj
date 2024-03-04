@@ -1,0 +1,35 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1707334553
+icon.svg::CompressedTexture2D::1250934948459231996::1707162818::1707162824::1::::<><>::
+::res://Art Assets/::1707245439
+moeda.png::CompressedTexture2D::4688348183123673581::1706998402::1707163386::1::::<><>::
+patohud.png::CompressedTexture2D::75746940329099519::1706998402::1707163386::1::::<><>::
+::res://Art Assets/Background/::1707245439
+Sky.png::CompressedTexture2D::5910168039178566522::1706998402::1707163386::1::::<><>::
+::res://Art Assets/Characters/::1707245439
+::res://Art Assets/Characters/Duck/::1707245439
+Duck (16x16).png::CompressedTexture2D::1266263769027673644::1706998402::1707163386::1::::<><>::
+::res://Art Assets/Characters/Duck Girl/::1707245439
+DuckGirl.png::CompressedTexture2D::3332925638258750217::1706998402::1707163386::1::::<><>::
+::res://Art Assets/Effects/::1707245439
+Heart.png::CompressedTexture2D::783804803841095797::1706998402::1707163386::1::::<><>::
+Sparkle.png::CompressedTexture2D::8430561436914064806::1706998402::1707163386::1::::<><>::
+::res://Art Assets/Hazards/::1707245439
+Spikes.png::CompressedTexture2D::3405805044248771913::1706998402::1707163386::1::::<><>::
+::res://Art Assets/Props/::1707245439
+Door (32x32).png::CompressedTexture2D::991533419104404941::1706998402::1707163386::1::::<><>::
+Egg.png::CompressedTexture2D::3347527376850204771::1706998402::1707163386::1::::<><>::
+Key.png::CompressedTexture2D::1606895427373099482::1706998402::1707163386::1::::<><>::
+::res://Art Assets/Tiles/::1707245439
+Tiles (16x16).png::CompressedTexture2D::8855049388571797987::1706998402::1707163386::1::::<><>::
+::res://Art Assets/UI/::1707245439
+TheEnd.png::CompressedTexture2D::7291509300951609726::1706998402::1707163386::1::::<><>::
+TitleScreen.png::CompressedTexture2D::3257201635709243461::1706998402::1707163386::1::::<><>::
+::res://scenes/::1707246678
+espinhos.tscn::PackedScene::8570126042951454638::1707246678::0::1::::<><>::uid://bor2d141wqjrd::::res://Art Assets/Hazards/Spikes.png<>res://script/espinhos.gd
+node_2d.tscn::PackedScene::1057882191981293576::1707246678::0::1::::<><>::uid://cqg6usmj4abag::::res://Art Assets/Background/Sky.png<>uid://dyfpmtmlhpurj::::res://Art Assets/Tiles/Tiles (16x16).png<>uid://bokrxudngsbjg::::res://scenes/player.tscn<>uid://dudoyuy42v4jq::::res://scenes/espinhos.tscn
+player.tscn::PackedScene::3390782590003798284::1707246678::0::1::::<><>::uid://sbngdiehboho::::res://Art Assets/Characters/Duck/Duck (16x16).png<>res://script/player.gd
+::res://script/::1707246284
+espinhos.gd::GDScript::-1::1707246284::0::1::::<>Area2D<>::
+player.gd::GDScript::-1::1707173678::0::1::::<>CharacterBody2D<>::
+::res://teste1/::1707245439
